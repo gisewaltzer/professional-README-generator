@@ -1,8 +1,11 @@
-// Node Packages needed for this application
+// Declaring all the const from require: 
 const inquirer = require('inquirer'); //npm inquirer package
 const fs = require('fs'); //file system
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
+// Welcome and Questions to start the program
+console.log ("Welcome to my README generator")
+console.log ("Answer the following questions to generate a Professional README for your project.")
 
 
 // Array of questions for user input
