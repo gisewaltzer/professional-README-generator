@@ -1,8 +1,8 @@
-# Professional README generator
+# Professional README Generator
 
 ## Description
-- The reason is to Generate a Professional README
-- a detail README for any project
+- The reason I build this project is to help users generate a README 
+- It solve the problem of generating a detail README for any project
 
 ## Table of Contents
 - [License](#license)
@@ -13,20 +13,20 @@
 - [Additional Questions](#additional-questions)
 
 ## License
-- ![License: LAL](https://img.shields.io/badge/License-LAL_1.3-red.svg)(https://opensource.org/licenses/LAL-1.3)
+- ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 Refer to [https://choosealicense.com](https://choosealicense.com/),
 
 ## Installation
-download the develop folder with all the packages required to produce
+To install this application all you need to do is download the develop folder with all the packages required to produc the app and then run it with node index.js
 
 ## Usage
-use as a README.md of any application the user create
+It will be use as a README of any application a user create.
 
 ## Contribution
-user will have the ability to generate a Professional README file everytime you create a new app
+The user will have the ability to generate a Professional README file everytime he create a new application
 
 ## Testing
-node index.js
+type node index.js
 
 ## Additional Questions
 If you have any question about the application contact me directly at: [gisewaltzer@gmail.com]
